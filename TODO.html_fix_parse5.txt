@@ -1,0 +1,5 @@
+TODO
+- Inspect Frontend/index.html for malformed HTML causing parse5 error.
+- Fix malformed <title> tag (currently "<title>Rhythm/title>"), ensuring proper closing tag.
+- Re-run build/lint or run dev server to confirm parse5 error is gone.
+
