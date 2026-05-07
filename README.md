@@ -1,4 +1,4 @@
-# 🎵 Rhythm Music Portal
+# 🎵 Rhythm 
 
 A full-stack music education platform with an admin dashboard, student portal, course management, music notes library, and OTP-based authentication.
 
